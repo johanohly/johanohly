@@ -1,9 +1,13 @@
 # Johnny JTH
 ### Python Developer learning Java
+[![wakatime](https://wakatime.com/badge/user/2b786026-cdea-4a91-9476-3bf8f12e1933.svg)](https://wakatime.com/@2b786026-cdea-4a91-9476-3bf8f12e1933)
 
 ## Main Project
-### B.O.T | Multipurpose Discord Bot
-[![B.O.T](https://wakatime.com/badge/github/JohnnyJTH/B.O.T.svg)](https://wakatime.com/badge/github/JohnnyJTH/B.O.T)
+### Freki | Utility Discord Bot
+[![Freki](https://wakatime.com/badge/user/2b786026-cdea-4a91-9476-3bf8f12e1933/project/352339a0-95b4-4f22-941e-8ec6cd637599.svg)](https://wakatime.com/badge/user/2b786026-cdea-4a91-9476-3bf8f12e1933/project/352339a0-95b4-4f22-941e-8ec6cd637599)
+### Geri | Fun Discord Bot
+[![Geri](https://wakatime.com/badge/user/2b786026-cdea-4a91-9476-3bf8f12e1933/project/eb641813-9f4a-48f7-84c1-36dd3893d349.svg)](https://wakatime.com/badge/user/2b786026-cdea-4a91-9476-3bf8f12e1933/project/eb641813-9f4a-48f7-84c1-36dd3893d349)
+
 
 ## Contribution
 ### Carberretta | Carberra Discord Management Bot
