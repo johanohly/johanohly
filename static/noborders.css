@@ -1,0 +1,41 @@
+.q .landarea {
+    stroke: rgb(30, 131, 70) !important;
+    stroke-width: 1px;
+}
+
+g.q:hover:not(.answered):not(.flashing) polygon:not(.showbefore):not(.misc), g.q:hover:not(.answered):not(.flashing) circle:not(.city):not(.city1):not(.city2):not(.showbefore):not(.showafter):not(.misc), g.q:hover:not(.answered):not(.flashing) path:not(.showbefore):not(.showafter), g.q:hover:not(.answered):not(.flashing) ellipse:not(.city):not(.city1):not(.city2):not(.showbefore):not(.showafter):not(.misc) {
+    fill: rgb(30, 131, 70) !important;
+
+}
+
+.clickarea {
+    /*pointer-events:none*/
+}
+
+.showbefore {
+    display:none !important;
+}
+
+@media (min-width: 2500px) {
+    .q .landarea {
+        stroke-width: 2px;
+    }
+}
+
+@media (min-width: 5000px) {
+    .q .landarea {
+        stroke-width: 3px;
+    }
+}
+
+@media (max-width: 600px) {
+    .q .landarea {
+        stroke-width: 2px;
+    }
+}
+
+@media (max-width: 300px) {
+    .q .landarea {
+        stroke-width: 3px;
+    }
+}
