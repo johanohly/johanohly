@@ -1,0 +1,39 @@
+
+.water {
+    fill: #0e1e41 !important;
+    stroke: #0e1e41 !important;
+}
+
+#HUD {
+    color: #dddddd;
+}
+
+#HUDWrapper {
+    background-color: #000000;
+    border-bottom: 1px solid #111111;
+}
+
+g.q:hover:not(.answered) circle.city {
+    stroke: #7c1c56;
+}
+
+g.q:hover:not(.answered) ellipse.city {
+    stroke: #7c1c56;
+}
+
+g.q:hover:not(.answered) ellipse.city1 {
+    stroke: #7c1c56;
+}
+
+g.q:hover:not(.answered) circle.city1 {
+    stroke: #7c1c56;
+}
+
+.landarea {
+    stroke: #135139 !important;
+}
+
+
+line {
+    stroke: white;
+}

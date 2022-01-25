@@ -1,0 +1,355 @@
+body {
+    background-color: #1b2326;
+    color: white;
+}
+
+.texthead {
+    color:white;
+}
+
+#divDownload {
+    background-color: #1b2326;
+}
+
+#contentwrapper {
+    background-color: #1b2326;
+}
+
+
+
+#divExtraInfo {
+    padding-left:10px;
+}
+
+#bannerImg {
+    display: none;
+}
+
+a {
+    color: #cccccc;
+}
+
+#mainbanner {
+    display: none;
+}
+
+
+.gamewindow {
+    background-color: #252f37;
+    border: 1px solid #444444;
+    box-shadow: none;
+    padding: 0px;
+    width: 100%;
+    border-radius: 0px;
+}
+
+.sectioncontent {
+    color: #eeeeee;
+}
+
+.featureditem {
+    background-color: #252f37;
+    border: 1px solid #444444;
+}
+
+.flag1 {
+    box-shadow: none;
+    outline: 1px solid #444444 !important;
+}
+
+.sectionheadtext.areaheading {
+    color: #cccccc;
+}
+
+.divSpeedrun {
+    background-color: #252f37;
+    border: 1px solid #444444;
+}
+
+.divAd_Skyscraper {
+    background-color: #252f37;
+    border: 1px solid #444444;
+}
+
+.divBlog {
+    background-color: #252f37;
+    border: 1px solid #444444;
+}
+
+.titleleft {
+    color: white;
+}
+
+.sectionheadtext.areaheading.small {
+    color: white;
+}
+
+
+.labelText {
+    background-color: #333333;
+    color: white;
+}
+
+.top10-wrapper {
+    background-color: #333333;
+    border: 1px solid #444444;
+}
+
+.top10-wrapper-challenge {
+    background-color: #1f2b47
+}
+
+tr.border_bottom td {
+    border-bottom: 1pt solid #444444;
+}
+
+
+#mainnav {
+    color: black;
+}
+
+.featureditemwide {
+    background-color: #333333;
+    border: 1px solid #444444;
+}
+
+.applinks {
+    background-color: #333333;
+    border: 1px solid #444444;
+}
+
+.divGameInfo {
+    background-color: #333333;
+    border: 1px solid #444444;
+}
+
+#completion {
+    background-color: #1b2326;
+}
+
+.keywords {
+    color: #cccccc;
+}
+
+.finalgamename {
+    color: #ddb70c;
+}
+
+#lblFinalScore2 {
+    color: #eeeeee;
+}
+
+#controls {
+    padding-bottom: 25px;
+}
+
+#lnkDarkModeOn {
+    display: none;
+}
+
+#svgDiv {
+    filter: brightness(0.95);
+}
+
+#lnkDarkModeOff {
+    display: block;
+}
+
+#optionsRight {
+    padding-right: 0px;
+}
+
+.divExtraInfoFloat {
+    background-color: #222222;
+}
+
+table.dataTable tbody tr {
+    background-color: #222222;
+}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    color: #ffffff;
+}
+
+#divPadlock {
+    background-color: #333333;
+    border: 1px solid #444444;
+}
+
+.lblQuizID {
+    color: #ddb70c;
+}
+
+#membermenu {
+    border: solid 1px #888888;
+}
+
+#header {
+    border-bottom: 1px solid #375393;
+}
+
+.clickedLabel {
+    -webkit-box-shadow: 0px 0px 5px 5px rgb(255, 255, 255);
+    -moz-box-shadow: 0px 0px 5px 5px rgb(255, 255, 255);
+    box-shadow: 0px 0px 0px 5px rgb(255, 255, 255);
+}
+
+#typeeasyprompt {
+    color: black;
+}
+
+.dragItem {
+    border: 1px solid #666666;
+    color: #eeeeee;
+    background-color: #000000;
+}
+
+#HUD {
+    color: #dddddd;
+}
+
+#HUDWrapper {
+    background-color: #000000;
+    border-bottom: 1px solid #111111;
+}
+
+#typeeasyprompt {
+    color: white;
+}
+
+    #typeEasyInputForm button {
+        color: white !important;
+    }
+
+#btnGiveUp {
+    padding: 2px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#drpGameMode {
+    color: white;
+    background-color: #222222;
+}
+
+button, input[type="button"] {
+    cursor: pointer;
+    color: white;
+    background-color: #254183;
+    border: 1px solid black;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+    button:hover, input[type="button"]:hover {
+        background-color: #425a92;
+    }
+
+.sectionhead {
+    border-bottom: solid 3px #deb418;
+}
+
+.recentScore {
+    background-color: #510c0c;
+    border-color: #510c0c;
+}
+
+.recentScore2 {
+    background-color: rgba(81, 12, 12, 0.3);
+    border-color: #510c0c;
+}
+
+.top10DropDown {
+    background-color: black;
+    color:white;
+    border: 1px solid #555555;
+    font-weight: bold;
+}
+
+.newTopScore {
+    background-color: #6d1818 !important;
+}
+
+.background {
+    fill: #252f37 !important;
+    stroke: #252f37 !important;
+}
+
+
+
+
+
+
+#leftcol {
+    margin-bottom: 150px;
+}
+
+@media (max-width:600px) {
+    #leftcol {
+        margin-bottom: 20px;
+    }
+}
+
+#breadcrumbs {
+    display: none;
+}
+
+.enabledlink {
+    color: #eeeeee;
+}
+
+.listtoggle {
+    border: 1px solid #555555;
+}
+
+.mapicon img {
+    border: 1px solid #555555 !important;
+}
+
+.gameflag {
+    border: 1px solid #555555
+}
+
+
+
+#typeInputForm input[type="text"] {
+    background-color: #1b2326;
+    color: white !important;
+}
+
+
+#typeEasyInputForm input[type="text"] {
+    background-color: #1b2326;
+    color: white !important;
+}
+
+#typeInputForm input[type="button"] {
+    padding: 5px;
+}
+
+#typeInputForm button {
+    padding: 5px;
+}
+
+#hints {
+    color:black;
+}
+
+@supports (-webkit-touch-callout: none) {
+    /* CSS specific to iOS devices */
+    #drpGameMode {
+        color:black;
+        background-color:white;
+    }
+}
+
+
+
+#imgInFlag {
+    opacity: 0.4;
+}
+
+.gssb_a {
+    color:black;
+}
