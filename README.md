@@ -26,4 +26,4 @@ Hey! Welcome to my profile. My name is Johan, a full-stack developer working on 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-![Metrics](https://github.com/JohnnyJTH/JohnnyJTH/blob/main/github-metrics.svg)
+![GitHub Profile Metrics](https://github.com/JohnnyJTH/JohnnyJTH/blob/main/github-metrics.svg)
