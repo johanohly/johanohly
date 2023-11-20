@@ -26,9 +26,4 @@ Hey! Welcome to my profile. My name is Johan, a full-stack developer working on 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-stats.johnnyjth.com/api?username=JohnnyJTH&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JohnnyJTH&theme=react&hide_border=false)<br/>
-![](https://github-stats.johnnyjth.com/api/top-langs/?username=JohnnyJTH&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=vue)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JohnnyJTH&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![Metrics](https://github.com/JohnnyJTH/JohnnyJTH/blob/main/github-metrics.svg)
