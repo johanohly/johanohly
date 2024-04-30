@@ -50,4 +50,4 @@ jobs:
           plugin_lines_sections: base
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://bedstelectio.dk
+          plugin_pagespeed_url: https://johnnyjth.com
