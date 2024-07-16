@@ -11,6 +11,7 @@ Hey! Welcome to my profile. My name is Johan, a full-stack developer working on 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white)
@@ -26,4 +27,4 @@ Hey! Welcome to my profile. My name is Johan, a full-stack developer working on 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub Profile Metrics](https://github.com/JohnnyJTH/JohnnyJTH/blob/main/github-metrics.svg)
+![GitHub Profile Metrics](https://github.com/johanohly/johanohly/blob/main/github-metrics.svg)
